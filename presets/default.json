@@ -1,5 +1,5 @@
 {
-    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "sdXL_v10VAEFix.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -45,7 +45,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "sd_xl_base_1.0": "https://civitai.com/api/download/models/128078?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "sdXL_v10VAEFix.safetensors": "https://civitai.com/api/download/models/128078?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
